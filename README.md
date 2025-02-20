@@ -4,8 +4,8 @@
 
 <br>
  
-![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasfls&layout=compact&theme=gotham)
-[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasfls&layout=compact&theme=gotham)](https://github.com/Yasfls/github-readme-stats)
+![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasfls&layout=compact&theme=noctis_minimus)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasfls&layout=compact&theme=noctis_minimus)](https://github.com/Yasfls/github-readme-stats)
 
 ## Tecnologias que estou utilizando/conhecendo:
 <br><br>
