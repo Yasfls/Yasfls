@@ -1,16 +1,14 @@
-## Hi there 👋
+### Oi me chamo Yasmin :)
+ 
+- Atualmente sou acadêmica em análise e desenvolvimento de sistemas.
 
-<!--
-**Yasfls/Yasfls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+ 
+![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yasfls&layout=compact&theme=dracula)
+[![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Yasfls&layout=compact&theme=dracula)](https://github.com/Yasfls/github-readme-stats)
+ 
+## Contato:
+<br/>
+<a href="www.linkedin.com/in/yasmin-friedemann-lopes-da-silva-6800041ab" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ 
+</div>
