@@ -1,6 +1,6 @@
 ### Oi me chamo Yasmin :)
  
-- Atualmente sou acadêmica em análise e desenvolvimento de sistemas.
+🌱 Atualmente sou acadêmica em análise e desenvolvimento de sistemas.
 
 <br>
  
